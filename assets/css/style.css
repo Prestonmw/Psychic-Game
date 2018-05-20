@@ -1,0 +1,22 @@
+body {
+    background-image: url(../images/psychic.jpg);;
+    font-family: cursive;
+    color: aquamarine;
+    font-size: 45px;
+  }
+
+
+  header {
+      font-size: 80px;
+      font-style: oblique;
+      padding-bottom: 50px;
+      color: snow;
+  }
+
+
+  footer {
+    font-size: 20px;
+    color: white;
+    padding-top: 15%;
+    text-align: center;
+  }
